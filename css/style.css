@@ -1,0 +1,51 @@
+body
+{
+
+}
+
+.button
+{
+  text-align: center;
+  padding: 15px;
+}
+
+h1
+{
+  text-align: center
+}
+
+label
+{
+  margin-left: 15px;
+  float:left;
+}
+
+input
+{
+  border: solid 1px black;
+  padding-left: 10px;
+}
+
+.put
+{
+  margin-left: 10px;
+}
+
+.game
+{ border: solid 1px black;
+  max-width: 70%;
+  margin-left: 15%;
+  float:left;
+  padding-right: 15px;
+}
+
+.field
+{
+  clear:both;
+  text-align:right;
+}
+
+input, label, button
+{
+  font-size: 2em;
+}
